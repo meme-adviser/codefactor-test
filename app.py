@@ -1,4 +1,4 @@
 try:
   print("hello")
- except:
+except:
   pass
